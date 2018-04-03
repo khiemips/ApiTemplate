@@ -14,3 +14,4 @@ Services/obj/
 /ODataServer/obj
 obj/
 ODataServer/bin/
+/docker-compose.dcproj.user
