@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: ApiTemplate-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: ApiTemplate
+    spec:
+      containers:
+      - name: ApiTemplate
+        image: ufabtestregistry.azurecr.io/ApiTemplate
+        ports:
+        - containerPort: 80
