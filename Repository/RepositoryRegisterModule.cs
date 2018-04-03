@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Common.Repositories;
-using Repository.Materials;
 
 namespace Repository
 {
@@ -20,11 +19,11 @@ namespace Repository
 
 
 
-            services.AddTransient<MaterialRepository, MaterialRepository>();
+            services.AddTransient<DbContext, DbContext>();
 
 
             services.AddSingleton(typeof(IRepository<>), typeof(RepositoryBase<>));
-            services.AddSingleton(typeof(IMaterialRepository<>), typeof(MaterialRepository<>));
+            //services.AddSingleton(typeof(IMaterialRepository<>), typeof(MaterialRepository<>));
         }
     }
 }

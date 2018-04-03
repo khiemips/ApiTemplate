@@ -13,12 +13,12 @@ namespace Repository
     {
         #region Contractor
 
-        public RepositoryBase(MaterialRepository materialRepository)
+        public RepositoryBase(DbContext materialRepository)
         {
             _Database = materialRepository;
         }
        
-        private MaterialRepository _Database;
+        private DbContext _Database;
 
         #endregion
 
@@ -32,7 +32,6 @@ namespace Repository
         public IEnumerable<T> GetAll(Expression<Func<T, bool>> whereCondition)
         {
             var result = _Database.Get<T>().Find(whereCondition).ToList();
-
             return result;
         }
 

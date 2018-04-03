@@ -22,6 +22,11 @@ namespace ApiTemplate.Controllers
             Service = ServiceFactory.Resovle<T>(serviceProvider);
         }
 
+        public ApiBaseController(IService<T> service)
+        {
+            Service = service;
+        }
+
         #endregion
 
 

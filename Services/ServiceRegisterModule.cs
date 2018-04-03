@@ -16,7 +16,8 @@ namespace Repository
 
 
             services.AddSingleton(typeof(IService<>), typeof(ServiceBase<>));
-            services.AddSingleton(typeof(IMaterialService<>), typeof(MaterialService<>));
+
+            services.AddTransient<IMaterialService, MaterialService>();
         }
     }
 }
