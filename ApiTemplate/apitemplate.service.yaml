@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: ApiTemplate-service
+  name: apitemplate-service
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: ApiTemplate
+    app: apitemplate
