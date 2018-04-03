@@ -25,7 +25,6 @@ namespace ApiTemplate.Controllers
         #endregion
 
 
-        // GET api/values
         [HttpGet]
         public IActionResult Get()
         {
@@ -33,7 +32,6 @@ namespace ApiTemplate.Controllers
             return Ok(result);
         }
 
-        // GET api/values/5
         [HttpGet("{id}")]
         public IActionResult Get(string id)
         {
@@ -41,16 +39,14 @@ namespace ApiTemplate.Controllers
             return Ok(result);
         }
 
-        // POST api/values
         [HttpPost]
         public IActionResult Post([FromBody]T entry)
         {
             var result = Service.Add(entry);
-            return Ok(entry.Id);
+            return Ok(result);
 
         }
 
-        // PUT api/values/5
         [HttpPut("{id}")]
         public IActionResult Put(string id, [FromBody]T entry)
         {
@@ -58,7 +54,6 @@ namespace ApiTemplate.Controllers
             return Ok();
         }
 
-        // DELETE api/values/5
         [HttpDelete("{id}")]
         public IActionResult Delete(string id)
         {

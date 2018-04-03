@@ -13,15 +13,12 @@ namespace ApiTemplate.Controllers
     public class MaterialController : ApiBaseController<Material>
     {
         #region Contractor
-        
-
 
         public MaterialController(IServiceProvider serviceProvider)
             : base(serviceProvider)
         {
         }
-
-
+        
         #endregion
 
 
