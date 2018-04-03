@@ -8,6 +8,7 @@ COPY Common/ Common/
 COPY Entities/ Entities/
 COPY Repository/ Repository/
 COPY Services/ Services/
+COPY ODataServer/ ODataServer/
 
 RUN dotnet restore -nowarn:msb3202,nu1503
 
