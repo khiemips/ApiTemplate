@@ -7,6 +7,8 @@ using System.Text;
 
 namespace Entities.Materials
 {
+
+    //[BsonIgnoreExtraElements]
     public class Material : EntityBase
     {
         
@@ -22,6 +24,7 @@ namespace Entities.Materials
 
         public Hardness Hardness { get; set; }
 
+        
         public string StandardId { get; set; }
 
         public string StandardTypeId { get; set; }
@@ -31,6 +34,8 @@ namespace Entities.Materials
         public LastModified LastModified { get; set; }
 
         public bool IsDefaultMaterialDenomination { get; set; }
+
+        public IDictionary<string, object> Dynamics { get; set; }
     }
 
     public class Hardness
