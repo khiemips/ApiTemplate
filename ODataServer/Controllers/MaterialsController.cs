@@ -34,16 +34,16 @@ namespace ODataServer.Controllers
             return Ok(material.Name);
         }
 
-        //public ActionResult GetDynamicProperty(string key, string dynamicProperty)
-        //{
-        //    var material = Service.GetById(key);
-        //    if (material == null || !material.Dynamics.Keys.Contains(dynamicProperty))
-        //    {
-        //        return NotFound();
-        //    }
+        public ActionResult GetDynamicProperty(string key, string dynamicProperty)
+        {
+            var material = Service.GetById(key);
+            if (material == null || !material.Dynamics.Keys.Contains(dynamicProperty))
+            {
+                return NotFound();
+            }
 
-        //    return Ok(material.Dynamics[dynamicProperty].ToString());
-        //}
+            return Ok(material.Dynamics[dynamicProperty].ToString());
+        }
 
     }
 }
