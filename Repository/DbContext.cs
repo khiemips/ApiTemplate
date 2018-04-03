@@ -6,11 +6,11 @@ using System;
 
 namespace Repository
 {
-    public class MaterialRepository
+    public class DbContext
     {
         private readonly IMongoDatabase _database = null;
 
-        public MaterialRepository(IOptions<MongoDbSetting> settings)
+        public DbContext(IOptions<MongoDbSetting> settings)
         {
             var mongoClienSettings = MongoClientSettings.FromUrl(new MongoUrl(settings.Value.ConnectionString));
 

@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entiti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataServer", "ODataServer\ODataServer.csproj", "{142EB4EB-D156-4AB9-A99D-24FA23F25207}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{EFBB7360-AFEA-4CCA-97C7-DA3819313C8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{142EB4EB-D156-4AB9-A99D-24FA23F25207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142EB4EB-D156-4AB9-A99D-24FA23F25207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142EB4EB-D156-4AB9-A99D-24FA23F25207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBB7360-AFEA-4CCA-97C7-DA3819313C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBB7360-AFEA-4CCA-97C7-DA3819313C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBB7360-AFEA-4CCA-97C7-DA3819313C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBB7360-AFEA-4CCA-97C7-DA3819313C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

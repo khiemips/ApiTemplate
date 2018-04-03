@@ -11,7 +11,7 @@ namespace Services
     public class ServiceBase<T> : IService<T>
         where T : EntityBase
     {
-        private IRepository<T> Repository { get; set; }
+        protected IRepository<T> Repository { get; set; }
 
         #region Contractor
 
