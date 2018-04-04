@@ -72,5 +72,6 @@ spec:
     ACR_IMAGE_URL = "${ACR_LOGINSERVER}/${APP_NAME.toLowerCase()}:${BUILD_NUMBER}"
 
     APP_NAME = "ApiTemplate"
+    }
   }
 }
