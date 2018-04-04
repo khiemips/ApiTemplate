@@ -22,7 +22,7 @@ pipeline {
           def image = "${ACR_IMAGE_URL}"
           def yaml = readYaml file: fileName
           yaml.spec.template.spec.containers[0].image = image
-          sh ('rm -f ' + fileName)
+          sh ('sudo rm -f ' + fileName)
           writeYaml file: fileName, data: yaml
         }
 
