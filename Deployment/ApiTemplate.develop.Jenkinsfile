@@ -3,13 +3,13 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'dotnet build ApiTemplate'
+        sh 'dotnet build ApiTemplate/ApiTemplate.csproj'
       }
     }
     stage('Package') {
       steps {
         sh """       
-            docker build -t ${APP_TAG} . -f ./ApiTemplate/Dockerfile    
+            docker build -t ${APP_TAG} . -f ApiTemplate/ApiTemplate.develop.Dockerfile    
             docker login ${ACR_LOGINSERVER} -u ${ACR_USR} -p ${ACR_PSW}
             docker tag ${APP_TAG} ${ACR_IMAGE_URL}
             docker push ${ACR_IMAGE_URL}"""
@@ -44,8 +44,8 @@ pipeline {
     ACR_USR = "${env.ACR_ID_USR}"
     ACR_PSW = "${env.ACR_ID_PSW}"
     APP_TAG = "apitemplate"
-    APP_YAML = "ApiTemplate/apitemplate.deploy.yaml"
-    APP_SVC_YAML = "ApiTemplate/apitemplate.service.yaml"
+    APP_YAML = "Deployment/ApiTemplate-App.develop.yaml"
+    APP_SVC_YAML = "Deployment/ApiTemplate-Svc.develop.yaml"
     ACR_IMAGE_URL = "${ACR_LOGINSERVER}/${APP_TAG}:${BUILD_NUMBER}"
   }
 }
