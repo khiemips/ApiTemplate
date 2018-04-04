@@ -1,0 +1,2302 @@
+[
+    {
+        "_id": "0.6022#Werkstoffnummer DIN#6#K2.1.C.UT#HB#155",
+        "Bid": "0.6022#Werkstoffnummer DIN#6#K2.1.C.UT#HB#155",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6022#Werkstoffnummer DIN#6#K2.1.C.UT#HB#155",
+        "Name": "0.6022",
+        "MaterialFamilyId": "6",
+        "Hardness": {
+            "HardnessValue": 155,
+            "ValueMin": 125,
+            "ValueMax": 195,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06022||06022WerkstoffnummerDIN||WerkstoffnummerDIN06022||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6025#Werkstoffnummer DIN#7#K2.1.C.UT#HB#215",
+        "Bid": "0.6025#Werkstoffnummer DIN#7#K2.1.C.UT#HB#215",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6025#Werkstoffnummer DIN#7#K2.1.C.UT#HB#215",
+        "Name": "0.6025",
+        "MaterialFamilyId": "7",
+        "Hardness": {
+            "HardnessValue": 215,
+            "ValueMin": 180,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06025||06025WerkstoffnummerDIN||WerkstoffnummerDIN06025||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6027#Werkstoffnummer DIN#8#K2.1.C.UT#HB#180",
+        "Bid": "0.6027#Werkstoffnummer DIN#8#K2.1.C.UT#HB#180",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6027#Werkstoffnummer DIN#8#K2.1.C.UT#HB#180",
+        "Name": "0.6027",
+        "MaterialFamilyId": "8",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 145,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06027||06027WerkstoffnummerDIN||WerkstoffnummerDIN06027||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6030#Werkstoffnummer DIN#12#K2.2.C.UT#HB#235",
+        "Bid": "0.6030#Werkstoffnummer DIN#12#K2.2.C.UT#HB#235",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0.6030#Werkstoffnummer DIN#12#K2.2.C.UT#HB#235",
+        "Name": "0.6030",
+        "MaterialFamilyId": "12",
+        "Hardness": {
+            "HardnessValue": 235,
+            "ValueMin": 200,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06030||06030WerkstoffnummerDIN||WerkstoffnummerDIN06030||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6032#Werkstoffnummer DIN#13#K2.1.C.UT#HB#180",
+        "Bid": "0.6032#Werkstoffnummer DIN#13#K2.1.C.UT#HB#180",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6032#Werkstoffnummer DIN#13#K2.1.C.UT#HB#180",
+        "Name": "0.6032",
+        "MaterialFamilyId": "13",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 165,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06032||06032WerkstoffnummerDIN||WerkstoffnummerDIN06032||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6035#Werkstoffnummer DIN#14#K2.2.C.UT#HB#255",
+        "Bid": "0.6035#Werkstoffnummer DIN#14#K2.2.C.UT#HB#255",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0.6035#Werkstoffnummer DIN#14#K2.2.C.UT#HB#255",
+        "Name": "0.6035",
+        "MaterialFamilyId": "14",
+        "Hardness": {
+            "HardnessValue": 255,
+            "ValueMin": 220,
+            "ValueMax": 290,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06035||06035WerkstoffnummerDIN||WerkstoffnummerDIN06035||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6037#Werkstoffnummer DIN#15#K2.2.C.UT#HB#230",
+        "Bid": "0.6037#Werkstoffnummer DIN#15#K2.2.C.UT#HB#230",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0.6037#Werkstoffnummer DIN#15#K2.2.C.UT#HB#230",
+        "Name": "0.6037",
+        "MaterialFamilyId": "15",
+        "Hardness": {
+            "HardnessValue": 230,
+            "ValueMin": 200,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06037||06037WerkstoffnummerDIN||WerkstoffnummerDIN06037||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6040#Werkstoffnummer DIN#16#K2.2.C.UT#HB#275",
+        "Bid": "0.6040#Werkstoffnummer DIN#16#K2.2.C.UT#HB#275",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0.6040#Werkstoffnummer DIN#16#K2.2.C.UT#HB#275",
+        "Name": "0.6040",
+        "MaterialFamilyId": "16",
+        "Hardness": {
+            "HardnessValue": 275,
+            "ValueMin": 230,
+            "ValueMax": 330,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06040||06040WerkstoffnummerDIN||WerkstoffnummerDIN06040||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6652#Werkstoffnummer DIN#17#K2.3.C.UT#HB#160",
+        "Bid": "0.6652#Werkstoffnummer DIN#17#K2.3.C.UT#HB#160",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6652#Werkstoffnummer DIN#17#K2.3.C.UT#HB#160",
+        "Name": "0.6652",
+        "MaterialFamilyId": "17",
+        "Hardness": {
+            "HardnessValue": 160,
+            "ValueMin": 140,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06652||06652WerkstoffnummerDIN||WerkstoffnummerDIN06652||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6655#Werkstoffnummer DIN#18#K2.3.C.UT#HB#168",
+        "Bid": "0.6655#Werkstoffnummer DIN#18#K2.3.C.UT#HB#168",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6655#Werkstoffnummer DIN#18#K2.3.C.UT#HB#168",
+        "Name": "0.6655",
+        "MaterialFamilyId": "18",
+        "Hardness": {
+            "HardnessValue": 168,
+            "ValueMin": 125,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06655||06655WerkstoffnummerDIN||WerkstoffnummerDIN06655||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6656#Werkstoffnummer DIN#19#K2.3.C.UT#HB#200",
+        "Bid": "0.6656#Werkstoffnummer DIN#19#K2.3.C.UT#HB#200",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6656#Werkstoffnummer DIN#19#K2.3.C.UT#HB#200",
+        "Name": "0.6656",
+        "MaterialFamilyId": "19",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 150,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06656||06656WerkstoffnummerDIN||WerkstoffnummerDIN06656||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6660#Werkstoffnummer DIN#20#K2.3.C.UT#HB#168",
+        "Bid": "0.6660#Werkstoffnummer DIN#20#K2.3.C.UT#HB#168",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6660#Werkstoffnummer DIN#20#K2.3.C.UT#HB#168",
+        "Name": "0.6660",
+        "MaterialFamilyId": "20",
+        "Hardness": {
+            "HardnessValue": 168,
+            "ValueMin": 125,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06660||06660WerkstoffnummerDIN||WerkstoffnummerDIN06660||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6661#Werkstoffnummer DIN#21#K2.3.C.UT#HB#200",
+        "Bid": "0.6661#Werkstoffnummer DIN#21#K2.3.C.UT#HB#200",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6661#Werkstoffnummer DIN#21#K2.3.C.UT#HB#200",
+        "Name": "0.6661",
+        "MaterialFamilyId": "21",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 160,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06661||06661WerkstoffnummerDIN||WerkstoffnummerDIN06661||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6667#Werkstoffnummer DIN#22#K2.3.C.UT#HB#195",
+        "Bid": "0.6667#Werkstoffnummer DIN#22#K2.3.C.UT#HB#195",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6667#Werkstoffnummer DIN#22#K2.3.C.UT#HB#195",
+        "Name": "0.6667",
+        "MaterialFamilyId": "22",
+        "Hardness": {
+            "HardnessValue": 195,
+            "ValueMin": 140,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06667||06667WerkstoffnummerDIN||WerkstoffnummerDIN06667||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6676#Werkstoffnummer DIN#23#K2.3.C.UT#HB#168",
+        "Bid": "0.6676#Werkstoffnummer DIN#23#K2.3.C.UT#HB#168",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6676#Werkstoffnummer DIN#23#K2.3.C.UT#HB#168",
+        "Name": "0.6676",
+        "MaterialFamilyId": "23",
+        "Hardness": {
+            "HardnessValue": 168,
+            "ValueMin": 125,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06676||06676WerkstoffnummerDIN||WerkstoffnummerDIN06676||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6678#Werkstoffnummer DIN#24#K2.3.C.UT#HB#195",
+        "Bid": "0.6678#Werkstoffnummer DIN#24#K2.3.C.UT#HB#195",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6678#Werkstoffnummer DIN#24#K2.3.C.UT#HB#195",
+        "Name": "0.6678",
+        "MaterialFamilyId": "24",
+        "Hardness": {
+            "HardnessValue": 195,
+            "ValueMin": 160,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06678||06678WerkstoffnummerDIN||WerkstoffnummerDIN06678||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6012#Werkstoffnummer DIN#2#K2.1.C.UT#HB#130",
+        "Bid": "0.6012#Werkstoffnummer DIN#2#K2.1.C.UT#HB#130",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6012#Werkstoffnummer DIN#2#K2.1.C.UT#HB#130",
+        "Name": "0.6012",
+        "MaterialFamilyId": "2",
+        "Hardness": {
+            "HardnessValue": 130,
+            "ValueMin": 125,
+            "ValueMax": 155,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06012||06012WerkstoffnummerDIN||WerkstoffnummerDIN06012||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6017#Werkstoffnummer DIN#3#K2.1.C.UT#HB#140",
+        "Bid": "0.6017#Werkstoffnummer DIN#3#K2.1.C.UT#HB#140",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6017#Werkstoffnummer DIN#3#K2.1.C.UT#HB#140",
+        "Name": "0.6017",
+        "MaterialFamilyId": "3",
+        "Hardness": {
+            "HardnessValue": 140,
+            "ValueMin": 125,
+            "ValueMax": 175,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06017||06017WerkstoffnummerDIN||WerkstoffnummerDIN06017||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6680#Werkstoffnummer DIN#25#K2.3.C.UT#HB#180",
+        "Bid": "0.6680#Werkstoffnummer DIN#25#K2.3.C.UT#HB#180",
+        "ClassificationId": "K2.3.C.UT",
+        "OriginalMaterialId": "0.6680#Werkstoffnummer DIN#25#K2.3.C.UT#HB#180",
+        "Name": "0.6680",
+        "MaterialFamilyId": "25",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 150,
+            "ValueMax": 210,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06680||06680WerkstoffnummerDIN||WerkstoffnummerDIN06680||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7033#Werkstoffnummer DIN#26#K3.1.C.UT#HB#140",
+        "Bid": "0.7033#Werkstoffnummer DIN#26#K3.1.C.UT#HB#140",
+        "ClassificationId": "K3.1.C.UT",
+        "OriginalMaterialId": "0.7033#Werkstoffnummer DIN#26#K3.1.C.UT#HB#140",
+        "Name": "0.7033",
+        "MaterialFamilyId": "26",
+        "Hardness": {
+            "HardnessValue": 140,
+            "ValueMin": 130,
+            "ValueMax": 160,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07033||07033WerkstoffnummerDIN||WerkstoffnummerDIN07033||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6015#Werkstoffnummer DIN#4#K2.1.C.UT#HB#165",
+        "Bid": "0.6015#Werkstoffnummer DIN#4#K2.1.C.UT#HB#165",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6015#Werkstoffnummer DIN#4#K2.1.C.UT#HB#165",
+        "Name": "0.6015",
+        "MaterialFamilyId": "4",
+        "Hardness": {
+            "HardnessValue": 165,
+            "ValueMin": 125,
+            "ValueMax": 205,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06015||06015WerkstoffnummerDIN||WerkstoffnummerDIN06015||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6010#Werkstoffnummer DIN#1#K2.1.C.UT#HB#150",
+        "Bid": "0.6010#Werkstoffnummer DIN#1#K2.1.C.UT#HB#150",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6010#Werkstoffnummer DIN#1#K2.1.C.UT#HB#150",
+        "Name": "0.6010",
+        "MaterialFamilyId": "1",
+        "Hardness": {
+            "HardnessValue": 150,
+            "ValueMin": 125,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06010||06010WerkstoffnummerDIN||WerkstoffnummerDIN06010||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.6020#Werkstoffnummer DIN#5#K2.1.C.UT#HB#180",
+        "Bid": "0.6020#Werkstoffnummer DIN#5#K2.1.C.UT#HB#180",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0.6020#Werkstoffnummer DIN#5#K2.1.C.UT#HB#180",
+        "Name": "0.6020",
+        "MaterialFamilyId": "5",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 125,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||06020||06020WerkstoffnummerDIN||WerkstoffnummerDIN06020||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": " A403 Grade WP347#ASTM#601#M1.0.Z.AQ#HB#191",
+        "Bid": " A403 Grade WP347#ASTM#601#M1.0.Z.AQ#HB#191",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": " A403 Grade WP347#ASTM#601#M1.0.Z.AQ#HB#191",
+        "Name": " A403 Grade WP347",
+        "MaterialFamilyId": "601",
+        "Hardness": {
+            "HardnessValue": 191,
+            "ValueMin": 152,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "ASTM",
+        "StandardTypeId": "cn_us",
+        "StandardFilteringFullText": "||A403GradeWP347||A403GradeWP347ASTM||ASTMA403GradeWP347||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "(G)X6CrNi304#UNI#519#P5.0.Z.HT#HB#296",
+        "Bid": "(G)X6CrNi304#UNI#519#P5.0.Z.HT#HB#296",
+        "ClassificationId": "P5.0.Z.HT",
+        "OriginalMaterialId": "(G)X6CrNi304#UNI#519#P5.0.Z.HT#HB#296",
+        "Name": "(G)X6CrNi304",
+        "MaterialFamilyId": "519",
+        "Hardness": {
+            "HardnessValue": 296,
+            "ValueMin": 235,
+            "ValueMax": 325,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "UNI",
+        "StandardTypeId": "cn_it",
+        "StandardFilteringFullText": "||GX6CrNi304||GX6CrNi304UNI||UNIGX6CrNi304||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7043#Werkstoffnummer DIN#28#K3.1.C.UT#HB#140",
+        "Bid": "0.7043#Werkstoffnummer DIN#28#K3.1.C.UT#HB#140",
+        "ClassificationId": "K3.1.C.UT",
+        "OriginalMaterialId": "0.7043#Werkstoffnummer DIN#28#K3.1.C.UT#HB#140",
+        "Name": "0.7043",
+        "MaterialFamilyId": "28",
+        "Hardness": {
+            "HardnessValue": 140,
+            "ValueMin": 130,
+            "ValueMax": 160,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07043||07043WerkstoffnummerDIN||WerkstoffnummerDIN07043||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7050#Werkstoffnummer DIN#29#K3.2.C.UT#HB#215",
+        "Bid": "0.7050#Werkstoffnummer DIN#29#K3.2.C.UT#HB#215",
+        "ClassificationId": "K3.2.C.UT",
+        "OriginalMaterialId": "0.7050#Werkstoffnummer DIN#29#K3.2.C.UT#HB#215",
+        "Name": "0.7050",
+        "MaterialFamilyId": "29",
+        "Hardness": {
+            "HardnessValue": 215,
+            "ValueMin": 170,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07050||07050WerkstoffnummerDIN||WerkstoffnummerDIN07050||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7040#Werkstoffnummer DIN#27#K3.1.C.UT#HB#160",
+        "Bid": "0.7040#Werkstoffnummer DIN#27#K3.1.C.UT#HB#160",
+        "ClassificationId": "K3.1.C.UT",
+        "OriginalMaterialId": "0.7040#Werkstoffnummer DIN#27#K3.1.C.UT#HB#160",
+        "Name": "0.7040",
+        "MaterialFamilyId": "27",
+        "Hardness": {
+            "HardnessValue": 160,
+            "ValueMin": 130,
+            "ValueMax": 180,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07040||07040WerkstoffnummerDIN||WerkstoffnummerDIN07040||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7060#Werkstoffnummer DIN#30#K3.2.C.UT#HB#234",
+        "Bid": "0.7060#Werkstoffnummer DIN#30#K3.2.C.UT#HB#234",
+        "ClassificationId": "K3.2.C.UT",
+        "OriginalMaterialId": "0.7060#Werkstoffnummer DIN#30#K3.2.C.UT#HB#234",
+        "Name": "0.7060",
+        "MaterialFamilyId": "30",
+        "Hardness": {
+            "HardnessValue": 234,
+            "ValueMin": 190,
+            "ValueMax": 260,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07060||07060WerkstoffnummerDIN||WerkstoffnummerDIN07060||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7070#Werkstoffnummer DIN#31#K3.3.C.UT#HB#265",
+        "Bid": "0.7070#Werkstoffnummer DIN#31#K3.3.C.UT#HB#265",
+        "ClassificationId": "K3.3.C.UT",
+        "OriginalMaterialId": "0.7070#Werkstoffnummer DIN#31#K3.3.C.UT#HB#265",
+        "Name": "0.7070",
+        "MaterialFamilyId": "31",
+        "Hardness": {
+            "HardnessValue": 265,
+            "ValueMin": 225,
+            "ValueMax": 305,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07070||07070WerkstoffnummerDIN||WerkstoffnummerDIN07070||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7080#Werkstoffnummer DIN#32#K3.3.C.UT#HB#265",
+        "Bid": "0.7080#Werkstoffnummer DIN#32#K3.3.C.UT#HB#265",
+        "ClassificationId": "K3.3.C.UT",
+        "OriginalMaterialId": "0.7080#Werkstoffnummer DIN#32#K3.3.C.UT#HB#265",
+        "Name": "0.7080",
+        "MaterialFamilyId": "32",
+        "Hardness": {
+            "HardnessValue": 265,
+            "ValueMin": 235,
+            "ValueMax": 300,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07080||07080WerkstoffnummerDIN||WerkstoffnummerDIN07080||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7660#Werkstoffnummer DIN#40#K3.5.C.UT#HB#148",
+        "Bid": "0.7660#Werkstoffnummer DIN#40#K3.5.C.UT#HB#148",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7660#Werkstoffnummer DIN#40#K3.5.C.UT#HB#148",
+        "Name": "0.7660",
+        "MaterialFamilyId": "40",
+        "Hardness": {
+            "HardnessValue": 148,
+            "ValueMin": 140,
+            "ValueMax": 255,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07660||07660WerkstoffnummerDIN||WerkstoffnummerDIN07660||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7652#Werkstoffnummer DIN#38#K3.5.C.UT#HB#135",
+        "Bid": "0.7652#Werkstoffnummer DIN#38#K3.5.C.UT#HB#135",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7652#Werkstoffnummer DIN#38#K3.5.C.UT#HB#135",
+        "Name": "0.7652",
+        "MaterialFamilyId": "38",
+        "Hardness": {
+            "HardnessValue": 135,
+            "ValueMin": 120,
+            "ValueMax": 150,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07652||07652WerkstoffnummerDIN||WerkstoffnummerDIN07652||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7659#Werkstoffnummer DIN#39#K3.5.C.UT#HB#170",
+        "Bid": "0.7659#Werkstoffnummer DIN#39#K3.5.C.UT#HB#170",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7659#Werkstoffnummer DIN#39#K3.5.C.UT#HB#170",
+        "Name": "0.7659",
+        "MaterialFamilyId": "39",
+        "Hardness": {
+            "HardnessValue": 170,
+            "ValueMin": 140,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07659||07659WerkstoffnummerDIN||WerkstoffnummerDIN07659||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7661#Werkstoffnummer DIN#41#K3.5.C.UT#HB#203",
+        "Bid": "0.7661#Werkstoffnummer DIN#41#K3.5.C.UT#HB#203",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7661#Werkstoffnummer DIN#41#K3.5.C.UT#HB#203",
+        "Name": "0.7661",
+        "MaterialFamilyId": "41",
+        "Hardness": {
+            "HardnessValue": 203,
+            "ValueMin": 150,
+            "ValueMax": 255,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07661||07661WerkstoffnummerDIN||WerkstoffnummerDIN07661||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7673#Werkstoffnummer DIN#44#K3.5.C.UT#HB#165",
+        "Bid": "0.7673#Werkstoffnummer DIN#44#K3.5.C.UT#HB#165",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7673#Werkstoffnummer DIN#44#K3.5.C.UT#HB#165",
+        "Name": "0.7673",
+        "MaterialFamilyId": "44",
+        "Hardness": {
+            "HardnessValue": 165,
+            "ValueMin": 150,
+            "ValueMax": 180,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07673||07673WerkstoffnummerDIN||WerkstoffnummerDIN07673||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7665#Werkstoffnummer DIN#42#K3.5.C.UT#HB#205",
+        "Bid": "0.7665#Werkstoffnummer DIN#42#K3.5.C.UT#HB#205",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7665#Werkstoffnummer DIN#42#K3.5.C.UT#HB#205",
+        "Name": "0.7665",
+        "MaterialFamilyId": "42",
+        "Hardness": {
+            "HardnessValue": 205,
+            "ValueMin": 180,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07665||07665WerkstoffnummerDIN||WerkstoffnummerDIN07665||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7670#Werkstoffnummer DIN#43#K3.5.C.UT#HB#150",
+        "Bid": "0.7670#Werkstoffnummer DIN#43#K3.5.C.UT#HB#150",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7670#Werkstoffnummer DIN#43#K3.5.C.UT#HB#150",
+        "Name": "0.7670",
+        "MaterialFamilyId": "43",
+        "Hardness": {
+            "HardnessValue": 150,
+            "ValueMin": 130,
+            "ValueMax": 170,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07670||07670WerkstoffnummerDIN||WerkstoffnummerDIN07670||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7676#Werkstoffnummer DIN#45#K3.5.C.UT#HB#170",
+        "Bid": "0.7676#Werkstoffnummer DIN#45#K3.5.C.UT#HB#170",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7676#Werkstoffnummer DIN#45#K3.5.C.UT#HB#170",
+        "Name": "0.7676",
+        "MaterialFamilyId": "45",
+        "Hardness": {
+            "HardnessValue": 170,
+            "ValueMin": 140,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07676||07676WerkstoffnummerDIN||WerkstoffnummerDIN07676||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7677#Werkstoffnummer DIN#46#K3.5.C.UT#HB#160",
+        "Bid": "0.7677#Werkstoffnummer DIN#46#K3.5.C.UT#HB#160",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7677#Werkstoffnummer DIN#46#K3.5.C.UT#HB#160",
+        "Name": "0.7677",
+        "MaterialFamilyId": "46",
+        "Hardness": {
+            "HardnessValue": 160,
+            "ValueMin": 130,
+            "ValueMax": 190,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07677||07677WerkstoffnummerDIN||WerkstoffnummerDIN07677||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7680#Werkstoffnummer DIN#47#K3.5.C.UT#HB#210",
+        "Bid": "0.7680#Werkstoffnummer DIN#47#K3.5.C.UT#HB#210",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7680#Werkstoffnummer DIN#47#K3.5.C.UT#HB#210",
+        "Name": "0.7680",
+        "MaterialFamilyId": "47",
+        "Hardness": {
+            "HardnessValue": 210,
+            "ValueMin": 170,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07680||07680WerkstoffnummerDIN||WerkstoffnummerDIN07680||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7683#Werkstoffnummer DIN#48#K3.5.C.UT#HB#140",
+        "Bid": "0.7683#Werkstoffnummer DIN#48#K3.5.C.UT#HB#140",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7683#Werkstoffnummer DIN#48#K3.5.C.UT#HB#140",
+        "Name": "0.7683",
+        "MaterialFamilyId": "48",
+        "Hardness": {
+            "HardnessValue": 140,
+            "ValueMin": 130,
+            "ValueMax": 180,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07683||07683WerkstoffnummerDIN||WerkstoffnummerDIN07683||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7685#Werkstoffnummer DIN#49#K3.5.C.UT#HB#165",
+        "Bid": "0.7685#Werkstoffnummer DIN#49#K3.5.C.UT#HB#165",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7685#Werkstoffnummer DIN#49#K3.5.C.UT#HB#165",
+        "Name": "0.7685",
+        "MaterialFamilyId": "49",
+        "Hardness": {
+            "HardnessValue": 165,
+            "ValueMin": 140,
+            "ValueMax": 190,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07685||07685WerkstoffnummerDIN||WerkstoffnummerDIN07685||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.7688#Werkstoffnummer DIN#50#K3.5.C.UT#HB#150",
+        "Bid": "0.7688#Werkstoffnummer DIN#50#K3.5.C.UT#HB#150",
+        "ClassificationId": "K3.5.C.UT",
+        "OriginalMaterialId": "0.7688#Werkstoffnummer DIN#50#K3.5.C.UT#HB#150",
+        "Name": "0.7688",
+        "MaterialFamilyId": "50",
+        "Hardness": {
+            "HardnessValue": 150,
+            "ValueMin": 130,
+            "ValueMax": 170,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||07688||07688WerkstoffnummerDIN||WerkstoffnummerDIN07688||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8038#Werkstoffnummer DIN#52#K3.1.C.UT#HB#150",
+        "Bid": "0.8038#Werkstoffnummer DIN#52#K3.1.C.UT#HB#150",
+        "ClassificationId": "K3.1.C.UT",
+        "OriginalMaterialId": "0.8038#Werkstoffnummer DIN#52#K3.1.C.UT#HB#150",
+        "Name": "0.8038",
+        "MaterialFamilyId": "52",
+        "Hardness": {
+            "HardnessValue": 150,
+            "ValueMin": 150,
+            "ValueMax": 150,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08038||08038WerkstoffnummerDIN||WerkstoffnummerDIN08038||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8040#Werkstoffnummer DIN#53#K1.1.C.NS#HB#206",
+        "Bid": "0.8040#Werkstoffnummer DIN#53#K1.1.C.NS#HB#206",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8040#Werkstoffnummer DIN#53#K1.1.C.NS#HB#206",
+        "Name": "0.8040",
+        "MaterialFamilyId": "53",
+        "Hardness": {
+            "HardnessValue": 206,
+            "ValueMin": 192,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08040||08040WerkstoffnummerDIN||WerkstoffnummerDIN08040||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8035#Werkstoffnummer DIN#51#K1.1.C.NS#HB#219",
+        "Bid": "0.8035#Werkstoffnummer DIN#51#K1.1.C.NS#HB#219",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8035#Werkstoffnummer DIN#51#K1.1.C.NS#HB#219",
+        "Name": "0.8035",
+        "MaterialFamilyId": "51",
+        "Hardness": {
+            "HardnessValue": 219,
+            "ValueMin": 207,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08035||08035WerkstoffnummerDIN||WerkstoffnummerDIN08035||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8065#Werkstoffnummer DIN#56#K3.3.C.UT#HB#270",
+        "Bid": "0.8065#Werkstoffnummer DIN#56#K3.3.C.UT#HB#270",
+        "ClassificationId": "K3.3.C.UT",
+        "OriginalMaterialId": "0.8065#Werkstoffnummer DIN#56#K3.3.C.UT#HB#270",
+        "Name": "0.8065",
+        "MaterialFamilyId": "56",
+        "Hardness": {
+            "HardnessValue": 270,
+            "ValueMin": 270,
+            "ValueMax": 270,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08065||08065WerkstoffnummerDIN||WerkstoffnummerDIN08065||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8045#Werkstoffnummer DIN#54#K1.1.C.NS#HB#185",
+        "Bid": "0.8045#Werkstoffnummer DIN#54#K1.1.C.NS#HB#185",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8045#Werkstoffnummer DIN#54#K1.1.C.NS#HB#185",
+        "Name": "0.8045",
+        "MaterialFamilyId": "54",
+        "Hardness": {
+            "HardnessValue": 185,
+            "ValueMin": 149,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08045||08045WerkstoffnummerDIN||WerkstoffnummerDIN08045||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8135#Werkstoffnummer DIN#57#K1.1.C.NS#HB#157",
+        "Bid": "0.8135#Werkstoffnummer DIN#57#K1.1.C.NS#HB#157",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8135#Werkstoffnummer DIN#57#K1.1.C.NS#HB#157",
+        "Name": "0.8135",
+        "MaterialFamilyId": "57",
+        "Hardness": {
+            "HardnessValue": 157,
+            "ValueMin": 150,
+            "ValueMax": 163,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08135||08135WerkstoffnummerDIN||WerkstoffnummerDIN08135||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8055#Werkstoffnummer DIN#55#K3.2.C.UT#HB#240",
+        "Bid": "0.8055#Werkstoffnummer DIN#55#K3.2.C.UT#HB#240",
+        "ClassificationId": "K3.2.C.UT",
+        "OriginalMaterialId": "0.8055#Werkstoffnummer DIN#55#K3.2.C.UT#HB#240",
+        "Name": "0.8055",
+        "MaterialFamilyId": "55",
+        "Hardness": {
+            "HardnessValue": 240,
+            "ValueMin": 240,
+            "ValueMax": 240,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08055||08055WerkstoffnummerDIN||WerkstoffnummerDIN08055||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8145#Werkstoffnummer DIN#58#K1.1.C.NS#HB#230",
+        "Bid": "0.8145#Werkstoffnummer DIN#58#K1.1.C.NS#HB#230",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8145#Werkstoffnummer DIN#58#K1.1.C.NS#HB#230",
+        "Name": "0.8145",
+        "MaterialFamilyId": "58",
+        "Hardness": {
+            "HardnessValue": 230,
+            "ValueMin": 197,
+            "ValueMax": 262,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08145||08145WerkstoffnummerDIN||WerkstoffnummerDIN08145||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8155#Werkstoffnummer DIN#59#K1.1.C.NS#HB#239",
+        "Bid": "0.8155#Werkstoffnummer DIN#59#K1.1.C.NS#HB#239",
+        "ClassificationId": "K1.1.C.NS",
+        "OriginalMaterialId": "0.8155#Werkstoffnummer DIN#59#K1.1.C.NS#HB#239",
+        "Name": "0.8155",
+        "MaterialFamilyId": "59",
+        "Hardness": {
+            "HardnessValue": 239,
+            "ValueMin": 230,
+            "ValueMax": 248,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08155||08155WerkstoffnummerDIN||WerkstoffnummerDIN08155||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8165#Werkstoffnummer DIN#60#K1.2.C.NS#HB#273",
+        "Bid": "0.8165#Werkstoffnummer DIN#60#K1.2.C.NS#HB#273",
+        "ClassificationId": "K1.2.C.NS",
+        "OriginalMaterialId": "0.8165#Werkstoffnummer DIN#60#K1.2.C.NS#HB#273",
+        "Name": "0.8165",
+        "MaterialFamilyId": "60",
+        "Hardness": {
+            "HardnessValue": 273,
+            "ValueMin": 260,
+            "ValueMax": 285,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08165||08165WerkstoffnummerDIN||WerkstoffnummerDIN08165||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.8170#Werkstoffnummer DIN#61#K1.2.C.NS#HB#288",
+        "Bid": "0.8170#Werkstoffnummer DIN#61#K1.2.C.NS#HB#288",
+        "ClassificationId": "K1.2.C.NS",
+        "OriginalMaterialId": "0.8170#Werkstoffnummer DIN#61#K1.2.C.NS#HB#288",
+        "Name": "0.8170",
+        "MaterialFamilyId": "61",
+        "Hardness": {
+            "HardnessValue": 288,
+            "ValueMin": 285,
+            "ValueMax": 290,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||08170||08170WerkstoffnummerDIN||WerkstoffnummerDIN08170||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9620#Werkstoffnummer DIN#62#H2.0.C.UT#HRC#55",
+        "Bid": "0.9620#Werkstoffnummer DIN#62#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9620#Werkstoffnummer DIN#62#H2.0.C.UT#HRC#55",
+        "Name": "0.9620",
+        "MaterialFamilyId": "62",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 46,
+            "ValueMax": 62,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09620||09620WerkstoffnummerDIN||WerkstoffnummerDIN09620||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9630#Werkstoffnummer DIN#64#H2.0.C.UT#HRC#55",
+        "Bid": "0.9630#Werkstoffnummer DIN#64#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9630#Werkstoffnummer DIN#64#H2.0.C.UT#HRC#55",
+        "Name": "0.9630",
+        "MaterialFamilyId": "64",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 46,
+            "ValueMax": 62,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09630||09630WerkstoffnummerDIN||WerkstoffnummerDIN09630||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9625#Werkstoffnummer DIN#63#H2.0.C.UT#HRC#55",
+        "Bid": "0.9625#Werkstoffnummer DIN#63#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9625#Werkstoffnummer DIN#63#H2.0.C.UT#HRC#55",
+        "Name": "0.9625",
+        "MaterialFamilyId": "63",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 46,
+            "ValueMax": 62,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09625||09625WerkstoffnummerDIN||WerkstoffnummerDIN09625||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9635#Werkstoffnummer DIN#65#H2.0.C.UT#HRC#55",
+        "Bid": "0.9635#Werkstoffnummer DIN#65#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9635#Werkstoffnummer DIN#65#H2.0.C.UT#HRC#55",
+        "Name": "0.9635",
+        "MaterialFamilyId": "65",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 47,
+            "ValueMax": 66,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09635||09635WerkstoffnummerDIN||WerkstoffnummerDIN09635||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9650#Werkstoffnummer DIN#68#H2.0.C.UT#HRC#55",
+        "Bid": "0.9650#Werkstoffnummer DIN#68#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9650#Werkstoffnummer DIN#68#H2.0.C.UT#HRC#55",
+        "Name": "0.9650",
+        "MaterialFamilyId": "68",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 47,
+            "ValueMax": 66,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09650||09650WerkstoffnummerDIN||WerkstoffnummerDIN09650||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9640#Werkstoffnummer DIN#66#H2.0.C.UT#HRC#55",
+        "Bid": "0.9640#Werkstoffnummer DIN#66#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9640#Werkstoffnummer DIN#66#H2.0.C.UT#HRC#55",
+        "Name": "0.9640",
+        "MaterialFamilyId": "66",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 47,
+            "ValueMax": 66,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09640||09640WerkstoffnummerDIN||WerkstoffnummerDIN09640||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9645#Werkstoffnummer DIN#67#H2.0.C.UT#HRC#55",
+        "Bid": "0.9645#Werkstoffnummer DIN#67#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9645#Werkstoffnummer DIN#67#H2.0.C.UT#HRC#55",
+        "Name": "0.9645",
+        "MaterialFamilyId": "67",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 47,
+            "ValueMax": 66,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09645||09645WerkstoffnummerDIN||WerkstoffnummerDIN09645||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0.9655#Werkstoffnummer DIN#69#H2.0.C.UT#HRC#55",
+        "Bid": "0.9655#Werkstoffnummer DIN#69#H2.0.C.UT#HRC#55",
+        "ClassificationId": "H2.0.C.UT",
+        "OriginalMaterialId": "0.9655#Werkstoffnummer DIN#69#H2.0.C.UT#HRC#55",
+        "Name": "0.9655",
+        "MaterialFamilyId": "69",
+        "Hardness": {
+            "HardnessValue": 55,
+            "ValueMin": 47,
+            "ValueMax": 66,
+            "HardnessUnit": "HRC"
+        },
+        "StandardId": "Werkstoffnummer DIN",
+        "StandardTypeId": "cn_de",
+        "StandardFilteringFullText": "||09655||09655WerkstoffnummerDIN||WerkstoffnummerDIN09655||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "008Cr27Mo#GB/YB (new)#503#P5.0.Z.AN#HB#220",
+        "Bid": "008Cr27Mo#GB/YB (new)#503#P5.0.Z.AN#HB#220",
+        "ClassificationId": "P5.0.Z.AN",
+        "OriginalMaterialId": "008Cr27Mo#GB/YB (new)#503#P5.0.Z.AN#HB#220",
+        "Name": "008Cr27Mo",
+        "MaterialFamilyId": "503",
+        "Hardness": {
+            "HardnessValue": 220,
+            "ValueMin": 220,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||008Cr27Mo||008Cr27MoGBYBnew||GBYBnew008Cr27Mo||GB008Cr27Mo||008Cr27MoGB||YB008Cr27Mo||008Cr27MoYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr17Ni13Mo2N#GB/YB (old)#538#M1.0.Z.AQ#HB#211",
+        "Bid": "00Cr17Ni13Mo2N#GB/YB (old)#538#M1.0.Z.AQ#HB#211",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr17Ni13Mo2N#GB/YB (old)#538#M1.0.Z.AQ#HB#211",
+        "Name": "00Cr17Ni13Mo2N",
+        "MaterialFamilyId": "538",
+        "Hardness": {
+            "HardnessValue": 211,
+            "ValueMin": 172,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr17Ni13Mo2N||00Cr17Ni13Mo2NGBYBold||GBYBold00Cr17Ni13Mo2N||GB00Cr17Ni13Mo2N||00Cr17Ni13Mo2NGB||YB00Cr17Ni13Mo2N||00Cr17Ni13Mo2NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr18Ni10N#GB/YB (old)#517#M1.0.Z.AQ#HB#197",
+        "Bid": "00Cr18Ni10N#GB/YB (old)#517#M1.0.Z.AQ#HB#197",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr18Ni10N#GB/YB (old)#517#M1.0.Z.AQ#HB#197",
+        "Name": "00Cr18Ni10N",
+        "MaterialFamilyId": "517",
+        "Hardness": {
+            "HardnessValue": 197,
+            "ValueMin": 163,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr18Ni10N||00Cr18Ni10NGBYBold||GBYBold00Cr18Ni10N||GB00Cr18Ni10N||00Cr18Ni10NGB||YB00Cr18Ni10N||00Cr18Ni10NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr18Ni14Mo2Cu2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "Bid": "00Cr18Ni14Mo2Cu2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr18Ni14Mo2Cu2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "Name": "00Cr18Ni14Mo2Cu2",
+        "MaterialFamilyId": "535",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr18Ni14Mo2Cu2||00Cr18Ni14Mo2Cu2GBYBold||GBYBold00Cr18Ni14Mo2Cu2||GB00Cr18Ni14Mo2Cu2||00Cr18Ni14Mo2Cu2GB||YB00Cr18Ni14Mo2Cu2||00Cr18Ni14Mo2Cu2YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr19Ni10#GB/YB (old)#513#M1.0.Z.AQ#HB#200",
+        "Bid": "00Cr19Ni10#GB/YB (old)#513#M1.0.Z.AQ#HB#200",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr19Ni10#GB/YB (old)#513#M1.0.Z.AQ#HB#200",
+        "Name": "00Cr19Ni10",
+        "MaterialFamilyId": "513",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 120,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr19Ni10||00Cr19Ni10GBYBold||GBYBold00Cr19Ni10||GB00Cr19Ni10||00Cr19Ni10GB||YB00Cr19Ni10||00Cr19Ni10YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr17Ni14Mo2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "Bid": "00Cr17Ni14Mo2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr17Ni14Mo2#GB/YB (old)#535#M1.0.Z.AQ#HB#183",
+        "Name": "00Cr17Ni14Mo2",
+        "MaterialFamilyId": "535",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr17Ni14Mo2||00Cr17Ni14Mo2GBYBold||GBYBold00Cr17Ni14Mo2||GB00Cr17Ni14Mo2||00Cr17Ni14Mo2GB||YB00Cr17Ni14Mo2||00Cr17Ni14Mo2YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr19Ni13Mo3#GB/YB (old)#534#M1.0.Z.AQ#HB#200",
+        "Bid": "00Cr19Ni13Mo3#GB/YB (old)#534#M1.0.Z.AQ#HB#200",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr19Ni13Mo3#GB/YB (old)#534#M1.0.Z.AQ#HB#200",
+        "Name": "00Cr19Ni13Mo3",
+        "MaterialFamilyId": "534",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 120,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr19Ni13Mo3||00Cr19Ni13Mo3GBYBold||GBYBold00Cr19Ni13Mo3||GB00Cr19Ni13Mo3||00Cr19Ni13Mo3GB||YB00Cr19Ni13Mo3||00Cr19Ni13Mo3YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr19Ni13Mo#GB/YB (old)#555#M1.0.Z.AQ#HB#183",
+        "Bid": "00Cr19Ni13Mo#GB/YB (old)#555#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00Cr19Ni13Mo#GB/YB (old)#555#M1.0.Z.AQ#HB#183",
+        "Name": "00Cr19Ni13Mo",
+        "MaterialFamilyId": "555",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr19Ni13Mo||00Cr19Ni13MoGBYBold||GBYBold00Cr19Ni13Mo||GB00Cr19Ni13Mo||00Cr19Ni13MoGB||YB00Cr19Ni13Mo||00Cr19Ni13MoYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00H17N14M2#PN#535#M1.0.Z.AQ#HB#183",
+        "Bid": "00H17N14M2#PN#535#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00H17N14M2#PN#535#M1.0.Z.AQ#HB#183",
+        "Name": "00H17N14M2",
+        "MaterialFamilyId": "535",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "PN",
+        "StandardTypeId": "cn_pl",
+        "StandardFilteringFullText": "||00H17N14M2||00H17N14M2PN||PN00H17N14M2||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00H18N10#PN#512#M1.0.Z.AQ#HB#200",
+        "Bid": "00H18N10#PN#512#M1.0.Z.AQ#HB#200",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "00H18N10#PN#512#M1.0.Z.AQ#HB#200",
+        "Name": "00H18N10",
+        "MaterialFamilyId": "512",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 120,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "PN",
+        "StandardTypeId": "cn_pl",
+        "StandardFilteringFullText": "||00H18N10||00H18N10PN||PN00H18N10||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "00Cr27Mo#GB/YB (old)#503#P5.0.Z.AN#HB#220",
+        "Bid": "00Cr27Mo#GB/YB (old)#503#P5.0.Z.AN#HB#220",
+        "ClassificationId": "P5.0.Z.AN",
+        "OriginalMaterialId": "00Cr27Mo#GB/YB (old)#503#P5.0.Z.AN#HB#220",
+        "Name": "00Cr27Mo",
+        "MaterialFamilyId": "503",
+        "Hardness": {
+            "HardnessValue": 220,
+            "ValueMin": 220,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (old)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||00Cr27Mo||00Cr27MoGBYBold||GBYBold00Cr27Mo||GB00Cr27Mo||00Cr27MoGB||YB00Cr27Mo||00Cr27MoYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.0#CMC#1552#P1.1.Z.AN#HB#125",
+        "Bid": "01.0#CMC#1552#P1.1.Z.AN#HB#125",
+        "ClassificationId": "P1.1.Z.AN",
+        "OriginalMaterialId": "01.0#CMC#1552#P1.1.Z.AN#HB#125",
+        "Name": "01.0",
+        "MaterialFamilyId": "1552",
+        "Hardness": {
+            "HardnessValue": 125,
+            "ValueMin": 85,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||010||010CMC||CMC010||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.1#CMC#1552#P1.1.Z.AN#HB#125",
+        "Bid": "01.1#CMC#1552#P1.1.Z.AN#HB#125",
+        "ClassificationId": "P1.1.Z.AN",
+        "OriginalMaterialId": "01.1#CMC#1552#P1.1.Z.AN#HB#125",
+        "Name": "01.1",
+        "MaterialFamilyId": "1552",
+        "Hardness": {
+            "HardnessValue": 125,
+            "ValueMin": 85,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||011||011CMC||CMC011||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.2#CMC#1550#P1.2.Z.AN#HB#190",
+        "Bid": "01.2#CMC#1550#P1.2.Z.AN#HB#190",
+        "ClassificationId": "P1.2.Z.AN",
+        "OriginalMaterialId": "01.2#CMC#1550#P1.2.Z.AN#HB#190",
+        "Name": "01.2",
+        "MaterialFamilyId": "1550",
+        "Hardness": {
+            "HardnessValue": 190,
+            "ValueMin": 125,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||012||012CMC||CMC012||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.3#CMC#1548#P1.3.Z.AN#HB#190",
+        "Bid": "01.3#CMC#1548#P1.3.Z.AN#HB#190",
+        "ClassificationId": "P1.3.Z.AN",
+        "OriginalMaterialId": "01.3#CMC#1548#P1.3.Z.AN#HB#190",
+        "Name": "01.3",
+        "MaterialFamilyId": "1548",
+        "Hardness": {
+            "HardnessValue": 190,
+            "ValueMin": 150,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||013||013CMC||CMC013||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.4#CMC#1548#P1.3.Z.AN#HB#190",
+        "Bid": "01.4#CMC#1548#P1.3.Z.AN#HB#190",
+        "ClassificationId": "P1.3.Z.AN",
+        "OriginalMaterialId": "01.4#CMC#1548#P1.3.Z.AN#HB#190",
+        "Name": "01.4",
+        "MaterialFamilyId": "1548",
+        "Hardness": {
+            "HardnessValue": 190,
+            "ValueMin": 150,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||014||014CMC||CMC014||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "01.5#CMC#1547#P1.3.Z.HT#HB#300",
+        "Bid": "01.5#CMC#1547#P1.3.Z.HT#HB#300",
+        "ClassificationId": "P1.3.Z.HT",
+        "OriginalMaterialId": "01.5#CMC#1547#P1.3.Z.HT#HB#300",
+        "Name": "01.5",
+        "MaterialFamilyId": "1547",
+        "Hardness": {
+            "HardnessValue": 300,
+            "ValueMin": 220,
+            "ValueMax": 350,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||015||015CMC||CMC015||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0110#SS#1#K2.1.C.UT#HB#150",
+        "Bid": "0110#SS#1#K2.1.C.UT#HB#150",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0110#SS#1#K2.1.C.UT#HB#150",
+        "Name": "0110",
+        "MaterialFamilyId": "1",
+        "Hardness": {
+            "HardnessValue": 150,
+            "ValueMin": 125,
+            "ValueMax": 200,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0110||0110SS||SS0110||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0120#SS#5#K2.1.C.UT#HB#180",
+        "Bid": "0120#SS#5#K2.1.C.UT#HB#180",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0120#SS#5#K2.1.C.UT#HB#180",
+        "Name": "0120",
+        "MaterialFamilyId": "5",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 125,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0120||0120SS||SS0120||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0125#SS#7#K2.1.C.UT#HB#215",
+        "Bid": "0125#SS#7#K2.1.C.UT#HB#215",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0125#SS#7#K2.1.C.UT#HB#215",
+        "Name": "0125",
+        "MaterialFamilyId": "7",
+        "Hardness": {
+            "HardnessValue": 215,
+            "ValueMin": 180,
+            "ValueMax": 220,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0125||0125SS||SS0125||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0130#SS#12#K2.2.C.UT#HB#235",
+        "Bid": "0130#SS#12#K2.2.C.UT#HB#235",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0130#SS#12#K2.2.C.UT#HB#235",
+        "Name": "0130",
+        "MaterialFamilyId": "12",
+        "Hardness": {
+            "HardnessValue": 235,
+            "ValueMin": 200,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0130||0130SS||SS0130||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0140#SS#16#K2.2.C.UT#HB#275",
+        "Bid": "0140#SS#16#K2.2.C.UT#HB#275",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0140#SS#16#K2.2.C.UT#HB#275",
+        "Name": "0140",
+        "MaterialFamilyId": "16",
+        "Hardness": {
+            "HardnessValue": 275,
+            "ValueMin": 230,
+            "ValueMax": 330,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0140||0140SS||SS0140||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0135#SS#14#K2.2.C.UT#HB#255",
+        "Bid": "0135#SS#14#K2.2.C.UT#HB#255",
+        "ClassificationId": "K2.2.C.UT",
+        "OriginalMaterialId": "0135#SS#14#K2.2.C.UT#HB#255",
+        "Name": "0135",
+        "MaterialFamilyId": "14",
+        "Hardness": {
+            "HardnessValue": 255,
+            "ValueMin": 220,
+            "ValueMax": 290,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0135||0135SS||SS0135||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0115#SS#4#K2.1.C.UT#HB#165",
+        "Bid": "0115#SS#4#K2.1.C.UT#HB#165",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0115#SS#4#K2.1.C.UT#HB#165",
+        "Name": "0115",
+        "MaterialFamilyId": "4",
+        "Hardness": {
+            "HardnessValue": 165,
+            "ValueMin": 125,
+            "ValueMax": 205,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0115||0115SS||SS0115||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "02.1#CMC#1541#P2.3.Z.AN#HB#260",
+        "Bid": "02.1#CMC#1541#P2.3.Z.AN#HB#260",
+        "ClassificationId": "P2.3.Z.AN",
+        "OriginalMaterialId": "02.1#CMC#1541#P2.3.Z.AN#HB#260",
+        "Name": "02.1",
+        "MaterialFamilyId": "1541",
+        "Hardness": {
+            "HardnessValue": 260,
+            "ValueMin": 200,
+            "ValueMax": 310,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||021||021CMC||CMC021||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "02.1#CMC#1543#P2.1.Z.AN#HB#175",
+        "Bid": "02.1#CMC#1543#P2.1.Z.AN#HB#175",
+        "ClassificationId": "P2.1.Z.AN",
+        "OriginalMaterialId": "02.1#CMC#1543#P2.1.Z.AN#HB#175",
+        "Name": "02.1",
+        "MaterialFamilyId": "1543",
+        "Hardness": {
+            "HardnessValue": 175,
+            "ValueMin": 120,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||021||021CMC||CMC021||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "02.1#CMC#1542#P2.2.Z.AN#HB#240",
+        "Bid": "02.1#CMC#1542#P2.2.Z.AN#HB#240",
+        "ClassificationId": "P2.2.Z.AN",
+        "OriginalMaterialId": "02.1#CMC#1542#P2.2.Z.AN#HB#240",
+        "Name": "02.1",
+        "MaterialFamilyId": "1542",
+        "Hardness": {
+            "HardnessValue": 240,
+            "ValueMin": 160,
+            "ValueMax": 320,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||021||021CMC||CMC021||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "02.2#CMC#1539#P2.5.Z.HT#HB#285",
+        "Bid": "02.2#CMC#1539#P2.5.Z.HT#HB#285",
+        "ClassificationId": "P2.5.Z.HT",
+        "OriginalMaterialId": "02.2#CMC#1539#P2.5.Z.HT#HB#285",
+        "Name": "02.2",
+        "MaterialFamilyId": "1539",
+        "Hardness": {
+            "HardnessValue": 285,
+            "ValueMin": 220,
+            "ValueMax": 350,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "CMC",
+        "StandardTypeId": "ma_mc",
+        "StandardFilteringFullText": "||022||022CMC||CMC022||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "0219#SS#8#K2.1.C.UT#HB#180",
+        "Bid": "0219#SS#8#K2.1.C.UT#HB#180",
+        "ClassificationId": "K2.1.C.UT",
+        "OriginalMaterialId": "0219#SS#8#K2.1.C.UT#HB#180",
+        "Name": "0219",
+        "MaterialFamilyId": "8",
+        "Hardness": {
+            "HardnessValue": 180,
+            "ValueMin": 145,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "SS",
+        "StandardTypeId": "cn_se",
+        "StandardFilteringFullText": "||0219||0219SS||SS0219||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr17Ni12Mo2#GB/YB (new)#535#M1.0.Z.AQ#HB#183",
+        "Bid": "022Cr17Ni12Mo2#GB/YB (new)#535#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "022Cr17Ni12Mo2#GB/YB (new)#535#M1.0.Z.AQ#HB#183",
+        "Name": "022Cr17Ni12Mo2",
+        "MaterialFamilyId": "535",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr17Ni12Mo2||022Cr17Ni12Mo2GBYBnew||GBYBnew022Cr17Ni12Mo2||GB022Cr17Ni12Mo2||022Cr17Ni12Mo2GB||YB022Cr17Ni12Mo2||022Cr17Ni12Mo2YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr19Ni10N#GB/YB (new)#517#M1.0.Z.AQ#HB#197",
+        "Bid": "022Cr19Ni10N#GB/YB (new)#517#M1.0.Z.AQ#HB#197",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "022Cr19Ni10N#GB/YB (new)#517#M1.0.Z.AQ#HB#197",
+        "Name": "022Cr19Ni10N",
+        "MaterialFamilyId": "517",
+        "Hardness": {
+            "HardnessValue": 197,
+            "ValueMin": 163,
+            "ValueMax": 230,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr19Ni10N||022Cr19Ni10NGBYBnew||GBYBnew022Cr19Ni10N||GB022Cr19Ni10N||022Cr19Ni10NGB||YB022Cr19Ni10N||022Cr19Ni10NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr19Ni10#GB/YB (new)#513#M1.0.Z.AQ#HB#200",
+        "Bid": "022Cr19Ni10#GB/YB (new)#513#M1.0.Z.AQ#HB#200",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "022Cr19Ni10#GB/YB (new)#513#M1.0.Z.AQ#HB#200",
+        "Name": "022Cr19Ni10",
+        "MaterialFamilyId": "513",
+        "Hardness": {
+            "HardnessValue": 200,
+            "ValueMin": 120,
+            "ValueMax": 275,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr19Ni10||022Cr19Ni10GBYBnew||GBYBnew022Cr19Ni10||GB022Cr19Ni10||022Cr19Ni10GB||YB022Cr19Ni10||022Cr19Ni10YB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr17Ni12Mo2N#GB/YB (new)#538#M1.0.Z.AQ#HB#211",
+        "Bid": "022Cr17Ni12Mo2N#GB/YB (new)#538#M1.0.Z.AQ#HB#211",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "022Cr17Ni12Mo2N#GB/YB (new)#538#M1.0.Z.AQ#HB#211",
+        "Name": "022Cr17Ni12Mo2N",
+        "MaterialFamilyId": "538",
+        "Hardness": {
+            "HardnessValue": 211,
+            "ValueMin": 172,
+            "ValueMax": 250,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr17Ni12Mo2N||022Cr17Ni12Mo2NGBYBnew||GBYBnew022Cr17Ni12Mo2N||GB022Cr17Ni12Mo2N||022Cr17Ni12Mo2NGB||YB022Cr17Ni12Mo2N||022Cr17Ni12Mo2NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr22Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "Bid": "022Cr22Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "ClassificationId": "M3.2.Z.AQ",
+        "OriginalMaterialId": "022Cr22Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "Name": "022Cr22Ni5Mo3N",
+        "MaterialFamilyId": "562",
+        "Hardness": {
+            "HardnessValue": 231,
+            "ValueMin": 200,
+            "ValueMax": 270,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr22Ni5Mo3N||022Cr22Ni5Mo3NGBYBnew||GBYBnew022Cr22Ni5Mo3N||GB022Cr22Ni5Mo3N||022Cr22Ni5Mo3NGB||YB022Cr22Ni5Mo3N||022Cr22Ni5Mo3NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr25Ni6Mo2N#GB/YB (new)#561#M3.1.Z.AQ#HB#230",
+        "Bid": "022Cr25Ni6Mo2N#GB/YB (new)#561#M3.1.Z.AQ#HB#230",
+        "ClassificationId": "M3.1.Z.AQ",
+        "OriginalMaterialId": "022Cr25Ni6Mo2N#GB/YB (new)#561#M3.1.Z.AQ#HB#230",
+        "Name": "022Cr25Ni6Mo2N",
+        "MaterialFamilyId": "561",
+        "Hardness": {
+            "HardnessValue": 230,
+            "ValueMin": 200,
+            "ValueMax": 270,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr25Ni6Mo2N||022Cr25Ni6Mo2NGBYBnew||GBYBnew022Cr25Ni6Mo2N||GB022Cr25Ni6Mo2N||022Cr25Ni6Mo2NGB||YB022Cr25Ni6Mo2N||022Cr25Ni6Mo2NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "022Cr23Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "Bid": "022Cr23Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "ClassificationId": "M3.2.Z.AQ",
+        "OriginalMaterialId": "022Cr23Ni5Mo3N#GB/YB (new)#562#M3.2.Z.AQ#HB#231",
+        "Name": "022Cr23Ni5Mo3N",
+        "MaterialFamilyId": "562",
+        "Hardness": {
+            "HardnessValue": 231,
+            "ValueMin": 200,
+            "ValueMax": 270,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GB/YB (new)",
+        "StandardTypeId": "cn_cn",
+        "StandardFilteringFullText": "||022Cr23Ni5Mo3N||022Cr23Ni5Mo3NGBYBnew||GBYBnew022Cr23Ni5Mo3N||GB022Cr23Ni5Mo3N||022Cr23Ni5Mo3NGB||YB022Cr23Ni5Mo3N||022Cr23Ni5Mo3NYB||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    },
+    {
+        "_id": "03 Ch 17N14M3#GOST Latin letters#553#M1.0.Z.AQ#HB#183",
+        "Bid": "03 Ch 17N14M3#GOST Latin letters#553#M1.0.Z.AQ#HB#183",
+        "ClassificationId": "M1.0.Z.AQ",
+        "OriginalMaterialId": "03 Ch 17N14M3#GOST Latin letters#553#M1.0.Z.AQ#HB#183",
+        "Name": "03 Ch 17N14M3",
+        "MaterialFamilyId": "553",
+        "Hardness": {
+            "HardnessValue": 183,
+            "ValueMin": 150,
+            "ValueMax": 215,
+            "HardnessUnit": "HB"
+        },
+        "StandardId": "GOST Latin letters",
+        "StandardTypeId": "cn_ru",
+        "StandardFilteringFullText": "||03Ch17N14M3||03Ch17N14M3GOSTLatinletters||GOSTLatinletters03Ch17N14M3||",
+        "LastModified": {
+            "DateTime": "2017-03-13T10:15:16.5613558",
+            "Ticks": 6.362370091656136e+17,
+            "Offset": 0
+        },
+        "IsDefaultMaterialDenomination": 0
+    }
+]

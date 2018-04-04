@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  apitemplate:
+    image: apitemplate:dev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    
+
+  odataserver:
+    image: odataserver:dev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    
+  mongodb:
+    image: mongo
+    ports:
+    - "27017:27017"
+
+  mongo-seed:
+    build: ./mongo-seed
+    links:
+      - mongodb

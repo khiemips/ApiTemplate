@@ -9,7 +9,9 @@ Repository/bin/
 Repository/obj/
 Services/bin/
 Services/obj/
-/.vs/ApiTemplate/v15/Server/sqlite3/db.lock
+.vs/
 /ODataServer/bin/Debug/netcoreapp2.0
 /ODataServer/obj
-.vs/
+obj/
+ODataServer/bin/
+/docker-compose.dcproj.user

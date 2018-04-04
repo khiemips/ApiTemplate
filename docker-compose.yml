@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  apitemplate:
+    image: apitemplate
+    build:
+      context: .
+      dockerfile: ApiTemplate/Dockerfile
+
+  odataserver:
+    image: odataserver
+    build:
+      context: .
+      dockerfile: ODataServer/Dockerfile
+
