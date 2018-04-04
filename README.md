@@ -4,5 +4,5 @@
  - If you need to extend the api for other business, just create the sevices then inject them into api contractor.
 
 ## Create OData api
- - The same as creating api. :)  
+ - The same as creating api, just inherit from _ODataBaseController<{YourEntity}>_ :)  
  
