@@ -9,7 +9,7 @@ pipeline {
     stage('Package') {
       steps {
         sh """       
-            docker build -t ${APP_TAG} . -f ApiTemplate/ApiTemplate.develop.Dockerfile    
+            docker build -t ${APP_TAG} . -f Deployment/ApiTemplate.develop.Dockerfile    
             docker login ${ACR_LOGINSERVER} -u ${ACR_USR} -p ${ACR_PSW}
             docker tag ${APP_TAG} ${ACR_IMAGE_URL}
             docker push ${ACR_IMAGE_URL}"""
