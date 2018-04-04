@@ -21,8 +21,9 @@ pipeline {
           def fileName = "${env.WORKSPACE}/${APP_YAML}"
           def image = "${ACR_IMAGE_URL}"
           def yaml = readYaml file: fileName
+          echo(fileName)
           yaml.spec.template.spec.containers[0].image = image
-          sh ('sudo rm -f ' + fileName)
+          sh ('rm -f ' + fileName)
           writeYaml file: fileName, data: yaml
         }
 
