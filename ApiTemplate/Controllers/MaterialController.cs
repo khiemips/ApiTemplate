@@ -13,11 +13,12 @@ namespace ApiTemplate.Controllers
     [Route("api/[controller]")]
     public class MaterialController : ApiBaseController<Material>
     {
-        private IMaterialService _materialService { get; set; }
-        #region Contractor
 
-        public MaterialController(IMaterialService materialService)
-            : base(materialService)
+        #region Contractor
+        private IMaterialService _materialService { get; set; }
+
+        public MaterialController(IServiceProvider serviceProvider, IMaterialService materialService)
+            : base(serviceProvider)
         {
             _materialService = materialService;
         }
