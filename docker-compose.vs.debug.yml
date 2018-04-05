@@ -5,12 +5,16 @@ services:
     image: apitemplate:dev
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - MongoDbSetting__ConnectionString=mongodb://mongodb:27017
+      - MongoDbSetting__Database=customerarea
     
 
   odataserver:
     image: odataserver:dev
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - MongoDbSetting__ConnectionString=mongodb://mongodb:27017
+      - MongoDbSetting__Database=customerarea
     
   mongodb:
     image: mongo
