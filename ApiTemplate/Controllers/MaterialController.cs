@@ -27,6 +27,7 @@ namespace ApiTemplate.Controllers
         public IActionResult Search(string keyword)
         {
             var result = _materialService.GetAll(keyword);
+            
             return Ok(result);
         }
 
