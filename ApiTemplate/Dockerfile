@@ -10,7 +10,9 @@ COPY Common/Common.csproj Common/
 COPY Services/Services.csproj Services/
 COPY Repository/Repository.csproj Repository/
 COPY Entities/Entities.csproj Entities/
+
 RUN dotnet restore -nowarn:msb3202,nu1503
+
 COPY . .
 WORKDIR /src/ApiTemplate
 RUN dotnet build -c Release -o /app
