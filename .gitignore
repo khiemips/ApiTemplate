@@ -16,3 +16,4 @@ obj/
 ODataServer/bin/
 /docker-compose.dcproj.user
 /Services.Test/bin/
+/ApiTemplate/ApiTemplate.csproj.user
