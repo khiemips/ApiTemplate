@@ -15,4 +15,4 @@ Services/obj/
 obj/
 ODataServer/bin/
 /docker-compose.dcproj.user
-/Service.Test/bin
+/Services.Test/bin/
