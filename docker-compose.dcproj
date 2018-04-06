@@ -5,7 +5,7 @@
     <DockerTargetOS>Linux</DockerTargetOS>
     <ProjectGuid>efbb7360-afea-4cca-97c7-da3819313c8b</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
-    <DockerServiceUrl>http://localhost:{ServicePort}/api/values</DockerServiceUrl>
+    <DockerServiceUrl>http://localhost:{ServicePort}/api/material</DockerServiceUrl>
     <DockerServiceName>apitemplate</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
